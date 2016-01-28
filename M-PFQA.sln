@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M-PFQA", "M-PFQA\M-PFQA.csproj", "{4F8261E0-E8F1-4506-8D51-23DF02D3458D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelExporterInterpreter", "MEInterpreter\CSharp\ModelExporterInterpreter.csproj", "{B878A76D-784A-44DB-B35F-AFD7CBD315BC}"
+EndProject
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "SerialPortLib", "SerialPortLib\SerialPortLib.cproj", "{E2A425B4-F233-4078-B0AC-49434E23F8E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8261E0-E8F1-4506-8D51-23DF02D3458D}.Debug|x86.ActiveCfg = Debug|x86
+		{4F8261E0-E8F1-4506-8D51-23DF02D3458D}.Debug|x86.Build.0 = Debug|x86
+		{4F8261E0-E8F1-4506-8D51-23DF02D3458D}.Release|x86.ActiveCfg = Release|x86
+		{4F8261E0-E8F1-4506-8D51-23DF02D3458D}.Release|x86.Build.0 = Release|x86
+		{B878A76D-784A-44DB-B35F-AFD7CBD315BC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B878A76D-784A-44DB-B35F-AFD7CBD315BC}.Debug|x86.Build.0 = Debug|Any CPU
+		{B878A76D-784A-44DB-B35F-AFD7CBD315BC}.Release|x86.ActiveCfg = Release|Any CPU
+		{B878A76D-784A-44DB-B35F-AFD7CBD315BC}.Release|x86.Build.0 = Release|Any CPU
+		{E2A425B4-F233-4078-B0AC-49434E23F8E9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E2A425B4-F233-4078-B0AC-49434E23F8E9}.Debug|x86.Build.0 = Debug|Any CPU
+		{E2A425B4-F233-4078-B0AC-49434E23F8E9}.Release|x86.ActiveCfg = Release|Any CPU
+		{E2A425B4-F233-4078-B0AC-49434E23F8E9}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = M-PFQA\M-PFQA.csproj
+	EndGlobalSection
+EndGlobal

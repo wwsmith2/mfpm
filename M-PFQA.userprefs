@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="M-PFQA/IniFileCs.cs">
+    <Files>
+      <File FileName="M-PFQA/Main.cs" Line="14" Column="5" />
+      <File FileName="M-PFQA/MainWindow.cs" Line="2549" Column="3" />
+      <File FileName="M-PFQA/SettingsDialog.cs" Line="54" Column="1" />
+      <File FileName="MEInterpreter/CSharp/eigenvectorInterpreter.cs" Line="703" Column="10" />
+      <File FileName="M-PFQA/IniFileCs.cs" Line="8" Column="26" />
+      <File FileName="M-PFQA/GetFuelTypeDialog.cs" Line="23" Column="4" />
+      <File FileName="M-PFQA/EnumHelper.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ModelExporterInterpreter" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+          <Node name="M-PFQA" expanded="True">
+            <Node name="UserInterface" expanded="True" />
+            <Node name="IniFileCs.cs" selected="True" />
+          </Node>
+          <Node name="SerialPortLib" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

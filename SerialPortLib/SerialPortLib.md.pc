@@ -1,0 +1,5 @@
+Name: SerialPortLib
+Description: 
+Version: 0.1
+Libs: -L"/home/pi/FPM/PFQA/bin/Release" -lSerialPortLib
+Cflags: -I"/home/pi/FPM/PFQA/SerialPortLib"
